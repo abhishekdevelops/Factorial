@@ -1,49 +1,60 @@
-🔢 Factorial Calculator – JavaScript Logic Project
-This is a beginner-friendly JavaScript project that calculates the factorial of a number using a simple for loop. The project demonstrates the use of core logic and control flow in JavaScript.
+# 🔢 Factorial Calculator – JavaScript Logic Project
 
-🚀 How It Works
-The function takes a number as input.
+This is a beginner-friendly JavaScript project that calculates the factorial of a number using a simple `for` loop. The project demonstrates the use of core logic and control flow in JavaScript.
 
-A result variable is initialized to 1.
+---
 
-A for loop runs from the number down to 1.
+## 🚀 How It Works
 
-On each iteration, the current number is multiplied to result.
+1. The function takes a number as input.  
+2. A result variable is initialized to 1.  
+3. A `for` loop runs from the number down to 1.  
+4. On each iteration, the current number is multiplied to `result`.  
+5. The final result is returned and logged in the **browser console**.
 
-The final result is returned and logged in the browser console.
+---
 
-📂 Project Structure
-factorial-calculator/
-├── index.html // Loads the script
-├── script.js // JavaScript logic for factorial calculation
-└── README.md // Project documentation
+## 📂 Project Structure
 
-🧪 Example Output
-Input: 5
+```
+factorial-calculator/  
+├── index.html   // Loads the script  
+├── script.js    // JavaScript logic for factorial calculation  
+└── README.md    // Project documentation  
+```
+
+---
+
+## 🧪 Example Output
+
+```javascript
+Input: 5  
 Output: 120
+```
 
-🧰 Technologies Used
-HTML (for structure)
+---
 
-JavaScript (for logic)
+## 🧰 Technologies Used
 
-Browser Console (for output)
+- HTML (for structure)  
+- JavaScript (for logic)  
+- Browser Console (for output)
 
-💻 How to Run It
-Clone the repo or download the files.
+---
 
-Open index.html in a browser.
+## 💻 How to Run It
 
-Open the browser's Developer Console:
+1. Clone the repo or download the files.  
+2. Open `index.html` in a browser.  
+3. Open the browser's **Developer Console**:  
+   - Right-click anywhere → Inspect  
+   - Go to the **Console** tab  
+4. View the factorial result.
 
-Right-click anywhere → Inspect
+---
 
-Go to the Console tab
+## 🔗 View Demo
 
-View the factorial result.
+[Click here to open the demo](https://abhishekdevelops.github.io/Factorial)
 
-🔗 View Demo
-Click here to open the demo: https://abhishekdevelops.github.io/Factorial
-
-✅ After opening the demo, right-click anywhere → choose "Inspect" → go to the Console tab to view the factorial result.
-
+✅ After opening the demo, right-click anywhere → choose **"Inspect"** → go to the **Console tab** to view the factorial result.
